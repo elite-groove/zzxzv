@@ -22,6 +22,7 @@
       { src: 'images/slide-image01.jpg' },
       { src: 'images/slide-image02.jpg' }
     ],
-    transition: ['zoomOut',]
+    transition: ['zoomOut',],
+    overlay: 'https://raw.githubusercontent.com/jaysalvat/vegas/master/dist/overlays/01.png'
   });
 })(jQuery);
