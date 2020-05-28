@@ -64,6 +64,12 @@ https://templatemo.com/tm-521-get-ready
     text-decoration: none !important;
   }
 
+  .list-group-item.active, .list-group-item.active:focus {
+    background-color: black;
+    border-color: #8e1717;
+    width: 100%;
+  }
+
   a,
   input, button,
   .form-control {
@@ -87,7 +93,19 @@ https://templatemo.com/tm-521-get-ready
   }
 
   .overlay {
-    background: linear-gradient(to top right, #8e1717, #000000);
+    background-image: url('https://raw.githubusercontent.com/jaysalvat/vegas/master/dist/overlays/01.png');
+    opacity: 0.9;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .overlay-nv {
+    background: linear-gradient(to top right, #4827db, #000000);
     opacity: 0.9;
     position: absolute;
     top: 0;

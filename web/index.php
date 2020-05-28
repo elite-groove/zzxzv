@@ -110,6 +110,7 @@ https://templatemo.com/tm-521-get-ready
 
      <!-- HOME -->
      <section id="home">
+          <div class="overlay-nv"></div>
           <div class="overlay"></div>
           <div class="container">
                <div class="row">
@@ -141,6 +142,17 @@ https://templatemo.com/tm-521-get-ready
                                    frameborder="0"
                                    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                                    allowfullscreen></iframe>
+                                   <br>
+                                   <div class="list-group">
+                                        <a href="https://www.youtube.com/watch?v=otl8yjZcg2Y" class="list-group-item active">
+                                             https://www.youtube.com/watch?v=otl8yjZcg2Y
+                                        </a>
+                                   </div>
+                                   <div class="list-group">
+                                        <a href="https://www.youtube.com/watch?v=otl8yjZcg2Y" class="list-group-item active">
+                                             LVI
+                                        </a>
+                                   </div>
                               <!-- <p>Demo Music From <a href="http://incompetech.com">incompetech.com</a></p>
                               <audio src="" controls id="audioPlayer" hidden>
                                    Sorry, your browser doesn't support html5!
