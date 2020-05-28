@@ -69,6 +69,12 @@ https://templatemo.com/tm-521-get-ready
     border-color: #8e1717;
     width: 100%;
   }
+  
+  .list-group-item.lvn, .list-group-item.lvn:focus {
+    background: linear-gradient(to top right, #ff00aa, #ff0000);
+    border-color: #8e1717;
+    width: 100%;
+  }
 
   a,
   input, button,
