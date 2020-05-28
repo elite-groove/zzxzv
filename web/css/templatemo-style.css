@@ -65,13 +65,12 @@ https://templatemo.com/tm-521-get-ready
   }
 
   .list-group-item.active, .list-group-item.active:focus {
-    background-color: black;
-    border-color: #8e1717;
+    background: linear-gradient(to top right, #000000, #ffc684);
     width: 100%;
   }
   
   .list-group-item.lvn, .list-group-item.lvn:focus {
-    background: linear-gradient(to top right, #ff00aa, #ff0000);
+    background: linear-gradient(to top right, #ff95dc, white);
     border-color: #8e1717;
     width: 100%;
   }
@@ -111,7 +110,7 @@ https://templatemo.com/tm-521-get-ready
   }
 
   .overlay-nv {
-    background: linear-gradient(to top right, #4827db, #000000);
+    background: linear-gradient(to top right, #ffffff, #f89523);
     opacity: 0.9;
     position: absolute;
     top: 0;
