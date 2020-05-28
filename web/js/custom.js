@@ -17,23 +17,11 @@
 
   // ABOUT SLIDER
   $('body').vegas({
+    timer: false,
     slides: [
       { src: 'images/slide-image01.jpg' },
       { src: 'images/slide-image02.jpg' }
     ],
-    timer: false,
     transition: ['zoomOut',]
   });
-
-  function audioPlayer() {
-    const youtube = document.querySelectorAll('DIV.ytp-large-play-button.ytp-button');
-    console.log(youtube);
-  }
-  
-  document.onreadystatechange = function($e) {
-    if(document.readyState === 'complete') {
-      console.log(document.readyState);
-      audioPlayer();
-    }
-  }
 })(jQuery);

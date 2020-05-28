@@ -77,8 +77,8 @@ https://templatemo.com/tm-521-get-ready
   }
 
   ::-webkit-scrollbar{
-    width: 8px;
-    height: 8px;
+    width: 0;
+    height: 0;
   }
 
   ::-webkit-scrollbar-thumb {
