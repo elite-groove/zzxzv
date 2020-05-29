@@ -74,6 +74,12 @@ https://templatemo.com/tm-521-get-ready
     border-color: #8e1717;
     width: 100%;
   }
+  
+  .list-group-item.wrx, .list-group-item.wrx:focus {
+    background: linear-gradient(to top right, #ffffff, white);
+    border-color: #8e1717;
+    width: 100%;
+  }
 
   a,
   input, button,
