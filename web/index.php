@@ -162,7 +162,7 @@ https://templatemo.com/tm-521-get-ready
                                    </div>                                   
                                    <div class="list-group">
                                         <a href="https://www.youtube.com/watch?v=otl8yjZcg2Y" class="list-group-item wrx">
-                                             MNDN MN DNM WRX RVT DTWRX XRIX WRX MCII LXK VMNX SPLVXI CXMW LWXRV KXLM XII 
+                                             MNDN MN DNM WRX RVT WRX MCII LXK VMNX SPLVXI CXMW LWXRV KXLM XII 
                                         </a>
                                    </div>
                               <!-- <p>Demo Music From <a href="http://incompetech.com">incompetech.com</a></p>
