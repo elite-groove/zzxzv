@@ -159,13 +159,7 @@ https://templatemo.com/tm-521-get-ready
                                         <a href="https://www.youtube.com/watch?v=otl8yjZcg2Y" class="list-group-item lvn">
                                              VNM LVN AN LVN NV LII VNLS ANF LCDN LKCN NCK {LXN}
                                         </a>
-                                   </div>
-                                   <div class="list-group">
-                                        <a href="https://www.youtube.com/watch?v=otl8yjZcg2Y" class="list-group-item active">
-                                             NANCK LAK NCNL LKAO
-                                        </a>
-                                   </div>
-                                   
+                                   </div>                                   
                                    <div class="list-group">
                                         <a href="https://www.youtube.com/watch?v=otl8yjZcg2Y" class="list-group-item wrx">
                                              MNDN MN DNM WRX RVT DTWRX XRIX WRX MCII LXK VMNX SPLVXI CXMW LWXRV KXLM XII 
