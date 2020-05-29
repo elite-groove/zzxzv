@@ -137,7 +137,9 @@ https://templatemo.com/tm-521-get-ready
                                         <h3>seconds</h3>
                                    </li>
                               </ul>
-                              <iframe id="player" width="560" height="315"
+                              <div id="player">
+
+                                   <iframe width="560" height="315"
                                    src="https://www.youtube.com/embed/videoseries?list=PLZCvs22bC8Ovvxyz2Z2nIkIMgXk1yGO65"
                                    frameborder="0"
                                    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
@@ -181,6 +183,7 @@ https://templatemo.com/tm-521-get-ready
                                                   class="fa fa-envelope-o"></i></button>
                                    </form>
                               </div> -->
+                              </div>
                          </div>
                     </div>
 
